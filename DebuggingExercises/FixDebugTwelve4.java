@@ -2,7 +2,7 @@
 // Keep executing until user enters four valid employee IDs
 // This program throws a FixDebugEmployeeIDException
 import javax.swing.*;
-public class DebugTwelve4
+public class FixDebugTwelve4
 {
    public static void main(String[] args)
    {
